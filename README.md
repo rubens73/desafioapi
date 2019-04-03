@@ -14,16 +14,17 @@ O Sistema deve conter três visões:
 # Sobre a aplicação
 
 A [aplicação] foi desenvolvida com as seguintes ferramentas:
-|Ferramenta | Descrição|
-| ------ | ------ |
-| Java 1.8 | Desenvolvimento |
-| Spring | Framework API REST |
-| PostgreSQL | Banco de dados |
-| PostMan | Testar as requisições |
-| JUnit | Testes |
-| Github | Versionamento |
-| Swagger | Documentação de API |
-| Heroku | Plataforma de aplicação |
+
+Ferramenta | Descrição
+ ------ | ------
+ Java 1.8 | Desenvolvimento
+ Spring | Framework API REST 
+ PostgreSQL | Banco de dados 
+ PostMan | Testar as requisições 
+ JUnit | Testes 
+ Github | Versionamento 
+ Swagger | Documentação de API 
+ Heroku | Plataforma de aplicação 
 
 ### O que melhorar:
 * A depender da necessidade usar um banco de dados NoSql para uma grande quantidade de registros
